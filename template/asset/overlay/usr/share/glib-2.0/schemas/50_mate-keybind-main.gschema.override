@@ -42,6 +42,9 @@ unmaximize='<Super>Down'
 
 
 [org.mate.Marco.global-keybindings]
+panel-main-menu='<Alt>F3'
+#panel-main-menu='<Alt>F1'
+panel-run-dialog='<Alt>F2'
 cycle-windows='<Super>Escape'
 cycle-windows-backward='<Alt>Escape'
 rename-workspace='<Alt>r'
